@@ -1,0 +1,16 @@
+
+.click-box-span {
+	padding:20px;
+	margin:20px;
+	background-color: #77AFB6;
+	display:inline-block;
+	border-radius:5px;
+}
+
+.click-box-span:hover {
+	cursor: pointer;
+}
+
+li:hover {
+	cursor: pointer;
+}
