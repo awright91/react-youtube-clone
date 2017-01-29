@@ -1,23 +1,10 @@
-# ReduxSimpleStarter
+# Reat ClimbTube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A React YouTube clone with a focus on the many different styles of Rock Climbing. 
 
-###Getting Started###
+This project uses Stephen Grider's ReduxSimpleStarter package (https://github.com/StephenGrider/ReactStarter/releases) so thanks Stephen! 
 
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+To run this project, clone or download thie project, and run: 
 
 ```
 	> npm install
